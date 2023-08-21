@@ -56,7 +56,7 @@ This function logs a message to the console.
 import { Tanish } from "@shashwat_ps/common";
 
 Tanish(); // Outputs: "Hello how is it going Tanish"
-//Tanish is one of my friend btw.
+//Tanish is one of my friends btw.
 ```
 
 Feel free to explore and incorporate these functions and types into your projects to enhance your development experience.
