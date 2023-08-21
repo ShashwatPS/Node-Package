@@ -14,3 +14,7 @@ export function hello(a :string) : string{
 export function greet(a :string){
     console.log("How's your day going "+a+" ?");
 }
+
+export function Tanish(){
+    console.log("Padhle bhai 70 Hazar ka laptop liya hai");
+}

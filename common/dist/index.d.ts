@@ -12,3 +12,4 @@ export declare const signupInput: z.ZodObject<{
 export type SignupParams = z.infer<typeof signupInput>;
 export declare function hello(a: string): string;
 export declare function greet(a: string): void;
+export declare function Tanish(): void;
