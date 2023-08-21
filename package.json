@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@shashwat_ps/common": "^1.0.1"
   }
 }
