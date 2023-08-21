@@ -16,5 +16,5 @@ export function greet(a :string){
 }
 
 export function Tanish(){
-    console.log("Padhle bhai 70 Hazar ka laptop liya hai");
+    console.log("Hello how is it going Tanish");
 }

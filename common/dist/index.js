@@ -15,6 +15,6 @@ function greet(a) {
 }
 exports.greet = greet;
 function Tanish() {
-    console.log("Padhle bhai 70 Hazar ka laptop liya hai");
+    console.log("Hello how is it going Tanish");
 }
 exports.Tanish = Tanish;
