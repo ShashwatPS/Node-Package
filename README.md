@@ -57,6 +57,26 @@ import { Tanish } from "@shashwat_ps/common";
 
 Tanish(); // Outputs: "Hello how is it going Tanish"
 //Tanish is one of my friends btw.
+
+```
+
+### `Fixing Error`
+If you encounter any errors related to ES Modules, make sure you have added "type": "module" to your package.json 
+file. Also, ensure that you are using Node.js version 14 or higher.
+
+```
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "type": "module", // Add this line for fixing the error
+  "main": "index.js", // Entry point for CommonJS modules (optional)
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    // your dependencies here
+  }
+}
 ```
 
 Feel free to explore and incorporate these functions and types into your projects to enhance your development experience.
