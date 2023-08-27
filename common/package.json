@@ -1,6 +1,5 @@
-{ "type": "module",
-  "name": "@shashwat_ps/common",
-  "version": "1.0.4",
+{"name": "@shashwat_ps/common",
+  "version": "1.0.6",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
